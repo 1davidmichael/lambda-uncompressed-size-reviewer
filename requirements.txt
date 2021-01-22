@@ -1,0 +1,4 @@
+boto3
+botostubs
+requests
+hurry.filesize
